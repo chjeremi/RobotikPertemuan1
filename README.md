@@ -1,6 +1,6 @@
 # GMRT Programmer Day 1 - Solution & Documentation
 
-Dokumentasi dan pembahasan lengkap untuk penyelesaian **Studi Kasus Programmer Day 1 - Universitas Gadjah Mada (GMRT)**. Seluruh solusi diimplementasikan dalam bahasa **C++** (dan C++17 kompatibel) serta didesain untuk berjalan secara efisien.
+Dokumentasi dan pembahasan lengkap untuk penyelesaian **Studi Kasus Programmer Day 1 - Gadjah Mada Robotic Team (GMRT)**. Seluruh solusi diimplementasikan dalam bahasa **C++** (dan C++17 kompatibel) serta didesain untuk berjalan secara efisien.
 
 ---
 
